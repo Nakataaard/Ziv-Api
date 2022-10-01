@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = 'Ziv San'
+creator = 'NakataArdnta'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
